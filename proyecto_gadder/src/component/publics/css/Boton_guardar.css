@@ -1,0 +1,14 @@
+.buttonguardar{
+    background-color: #ed5345;
+    border: none;
+    color: white; /* O cualquier color de texto que prefieras */
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
