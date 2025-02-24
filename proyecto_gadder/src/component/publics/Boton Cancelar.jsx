@@ -7,5 +7,4 @@ const BotonCancelar = ({ onClick }) => {
     </button>
   );
 };
-
 export default BotonCancelar;
